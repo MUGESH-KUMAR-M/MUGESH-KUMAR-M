@@ -34,34 +34,31 @@
 <tr>
 <td width="50%" valign="top">
 
-I'm Mugesh Kumar, a **Creative Technologist and XR Developer** from Tamil Nadu, India, specializing in AR/VR development, full-stack applications, and AI/ML integration. Currently a Computer Science Engineering student, I'm passionate about building next-generation immersive experiences and democratizing extended reality through open-source contributions.
+I'm Mugesh Kumar, a **Creative Technologist and XR Developer** from Tamil Nadu, India, specializing in AR/VR development, full-stack applications, and AI/ML integration. Currently a Computer Science Engineering student, I'm passionate about building next-generation immersive experiences and democratizing extended reality.
 
-My expertise spans **Unity AR/VR development, React ecosystems, WebXR, Three.js, cloud architecture, and interactive 3D experiences**. I'm on a mission to turn impossible ideas into immersive realities while pushing the boundaries of spatial computing and real-time rendering optimization.
+<br/>
 
 ### <img src="https://api.iconify.design/fluent/target-arrow-16-filled.svg?color=%23A855F7" width="20"/> What I Do
 
-- <img src="https://api.iconify.design/mdi/google-cardboard.svg?color=%239333EA" width="18"/> **AR/VR Development** - Creating immersive experiences with Unity, AR Foundation & Vuforia
-- <img src="https://api.iconify.design/ph/code-bold.svg?color=%239333EA" width="18"/> **Full-Stack Development** - Building scalable web & mobile apps with React, Next.js & React Native
-- <img src="https://api.iconify.design/carbon/machine-learning-model.svg?color=%239333EA" width="18"/> **AI/ML Integration** - Implementing intelligent systems with TensorFlow & PyTorch
-- <img src="https://api.iconify.design/mdi/cloud-outline.svg?color=%239333EA" width="18"/> **Cloud Architecture** - Designing robust infrastructure with AWS, GCP & Docker
-- <img src="https://api.iconify.design/game-icons/3d-glasses.svg?color=%239333EA" width="18"/> **Interactive 3D** - Crafting engaging experiences with Three.js & WebXR
+<img src="https://api.iconify.design/mdi/google-cardboard.svg?color=%239333EA" width="16"/> AR/VR with Unity & Vuforia  
+<img src="https://api.iconify.design/ph/code-bold.svg?color=%239333EA" width="16"/> Full-Stack with React & Next.js  
+<img src="https://api.iconify.design/carbon/machine-learning-model.svg?color=%239333EA" width="16"/> AI/ML Integration  
+<img src="https://api.iconify.design/mdi/cloud-outline.svg?color=%239333EA" width="16"/> Cloud & DevOps  
+<img src="https://api.iconify.design/game-icons/3d-glasses.svg?color=%239333EA" width="16"/> Interactive 3D Experiences
 
-### <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%23A855F7" width="20"/> Current Focus
+<br/>
 
-- <img src="https://api.iconify.design/mdi/chevron-right.svg?color=%239333EA" width="16"/> Pushing boundaries of Unity AR/VR development
-- <img src="https://api.iconify.design/mdi/chevron-right.svg?color=%239333EA" width="16"/> Crafting scalable React ecosystems
-- <img src="https://api.iconify.design/mdi/chevron-right.svg?color=%239333EA" width="16"/> Exploring WebXR, Three.js & Spatial Computing
-- <img src="https://api.iconify.design/mdi/chevron-right.svg?color=%239333EA" width="16"/> Mastering real-time rendering & optimization
+### <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%23A855F7" width="20"/> Currently
 
-### <img src="https://api.iconify.design/ph/lightbulb-filament-bold.svg?color=%23A855F7" width="20"/> Philosophy
+Pushing boundaries of Unity AR/VR, crafting scalable React ecosystems, and exploring WebXR & Spatial Computing.
 
-> "Turning impossible ideas into immersive realities"
+<br/>
 
-### <img src="https://api.iconify.design/mdi/handshake.svg?color=%23A855F7" width="20"/> Let's Collaborate
+### <img src="https://api.iconify.design/mdi/handshake.svg?color=%23A855F7" width="20"/> Let's Connect
 
-- <img src="https://api.iconify.design/mdi/briefcase-variant.svg?color=%239333EA" width="18"/> Open for exciting freelance projects
-- <img src="https://api.iconify.design/mdi/star-circle.svg?color=%239333EA" width="18"/> Always ready to innovate
-- <img src="https://api.iconify.design/mdi/book-open-variant.svg?color=%239333EA" width="18"/> Happy to mentor & share knowledge
+<img src="https://api.iconify.design/mdi/briefcase-variant.svg?color=%239333EA" width="16"/> Open for freelance  
+<img src="https://api.iconify.design/mdi/star-circle.svg?color=%239333EA" width="16"/> Ready to collaborate  
+<img src="https://api.iconify.design/mdi/book-open-variant.svg?color=%239333EA" width="16"/> Happy to mentor
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -80,7 +77,7 @@ My expertise spans **Unity AR/VR development, React ecosystems, WebXR, Three.js,
 
 <br/>
 
-### <img src="https://api.iconify.design/vscode-icons/file-type-light-code.svg" width="24"/> Languages
+### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="24"/> Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -89,6 +86,7 @@ My expertise spans **Unity AR/VR development, React ecosystems, WebXR, Three.js,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### <img src="https://api.iconify.design/bi/palette-fill.svg?color=%239333EA" width="24"/> Frontend & Mobile
 
@@ -99,12 +97,14 @@ My expertise spans **Unity AR/VR development, React ecosystems, WebXR, Three.js,
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
 ### <img src="https://api.iconify.design/mdi/google-cardboard.svg?color=%23A855F7" width="24"/> XR & Game Development
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![AR Foundation](https://img.shields.io/badge/AR_Foundation-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Vuforia](https://img.shields.io/badge/Vuforia-00ACC1?style=for-the-badge&logo=vuforia&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
 
 ### <img src="https://api.iconify.design/mdi/cloud-outline.svg?color=%239333EA" width="24"/> Cloud & DevOps
 
@@ -113,12 +113,14 @@ My expertise spans **Unity AR/VR development, React ecosystems, WebXR, Three.js,
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+
 ### <img src="https://api.iconify.design/carbon/machine-learning-model.svg?color=%23A855F7" width="24"/> AI/ML & Data Science
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 
 ### <img src="https://api.iconify.design/carbon/data-base.svg?color=%239333EA" width="24"/> Backend & Database
 
@@ -139,6 +141,7 @@ My expertise spans **Unity AR/VR development, React ecosystems, WebXR, Three.js,
 
 ## <img src="https://api.iconify.design/icon-park-outline/data-sheet.svg?color=%23A855F7" width="28" align="center"/> GitHub Analytics
 
+
 <br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MUGESH-KUMAR-M&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=9333EA&text_color=FFFFFF&ring_color=A855F7&border_radius=15" alt="GitHub Stats"/>
@@ -151,7 +154,6 @@ My expertise spans **Unity AR/VR development, React ecosystems, WebXR, Three.js,
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUGESH-KUMAR-M&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=9333EA&point=A855F7&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%"/>
-
 </div>
 
 ---
@@ -160,13 +162,14 @@ My expertise spans **Unity AR/VR development, React ecosystems, WebXR, Three.js,
 
 ## <img src="https://api.iconify.design/basil/envelope-outline.svg?color=%23A855F7" width="28" align="center"/> Connect With Me
 
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.1)](https://www.linkedin.com/in/mugesh-kumar-m-5b5591290/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mugesh_27/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_mugesh27/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mugeshkumar971@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mugeshkumar-2005)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MUGESH-KUMAR-M)
 
 <br/><br/>
 
