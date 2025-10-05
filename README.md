@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi, I'm Mugesh Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Software+Developer+%7C+Creative+Technologist;Crafting+Immersive+Digital+Experiences;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Software+Developer+%7C+Creative+Technologist;Crafting+Immersive+Digital+Experiences;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing Animation" />
 
 <br/>
 
