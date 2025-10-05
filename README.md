@@ -34,43 +34,34 @@
 <tr>
 <td width="50%" valign="top">
 
-```typescript
-const mugesh = {
-    title: "Creative Technologist & XR Developer",
-    location: "Tamil Nadu, India",
-    education: "Computer Science Engineering Student",
-    
-    expertise: [
-        "AR/VR Development & Immersive Tech",
-        "Full-Stack Web & Mobile Applications", 
-        "AI/ML Integration & Automation",
-        "Cloud Architecture & DevOps",
-        "Interactive 3D Experiences"
-    ],
-    
-    techPassions: {
-        core: "Building next-gen XR experiences",
-        innovation: "Merging AI with immersive realities",
-        contribution: "Open-source & community building",
-        vision: "Democratizing extended reality"
-    },
-    
-    currentMission: {
-        primary: "Pushing boundaries of Unity AR/VR",
-        secondary: "Crafting scalable React ecosystems",
-        exploring: "WebXR, Three.js & Spatial Computing",
-        mastering: "Real-time rendering & optimization"
-    },
-    
-    dailyDrive: "Turning impossible ideas into immersive realities",
-    
-    availability: {
-        freelance: "Open for exciting projects",
-        collaboration: "Always ready to innovate",
-        mentoring: "Happy to share knowledge"
-    }
-};
-```
+I'm Mugesh Kumar, a **Creative Technologist and XR Developer** from Tamil Nadu, India, specializing in AR/VR development, full-stack applications, and AI/ML integration. Currently a Computer Science Engineering student, I'm passionate about building next-generation immersive experiences and democratizing extended reality through open-source contributions.
+
+My expertise spans **Unity AR/VR development, React ecosystems, WebXR, Three.js, cloud architecture, and interactive 3D experiences**. I'm on a mission to turn impossible ideas into immersive realities while pushing the boundaries of spatial computing and real-time rendering optimization.
+
+### <img src="https://api.iconify.design/fluent/target-arrow-16-filled.svg?color=%23A855F7" width="20"/> What I Do
+
+- <img src="https://api.iconify.design/mdi/google-cardboard.svg?color=%239333EA" width="18"/> **AR/VR Development** - Creating immersive experiences with Unity, AR Foundation & Vuforia
+- <img src="https://api.iconify.design/ph/code-bold.svg?color=%239333EA" width="18"/> **Full-Stack Development** - Building scalable web & mobile apps with React, Next.js & React Native
+- <img src="https://api.iconify.design/carbon/machine-learning-model.svg?color=%239333EA" width="18"/> **AI/ML Integration** - Implementing intelligent systems with TensorFlow & PyTorch
+- <img src="https://api.iconify.design/mdi/cloud-outline.svg?color=%239333EA" width="18"/> **Cloud Architecture** - Designing robust infrastructure with AWS, GCP & Docker
+- <img src="https://api.iconify.design/game-icons/3d-glasses.svg?color=%239333EA" width="18"/> **Interactive 3D** - Crafting engaging experiences with Three.js & WebXR
+
+### <img src="https://api.iconify.design/mdi/rocket-launch.svg?color=%23A855F7" width="20"/> Current Focus
+
+- <img src="https://api.iconify.design/mdi/chevron-right.svg?color=%239333EA" width="16"/> Pushing boundaries of Unity AR/VR development
+- <img src="https://api.iconify.design/mdi/chevron-right.svg?color=%239333EA" width="16"/> Crafting scalable React ecosystems
+- <img src="https://api.iconify.design/mdi/chevron-right.svg?color=%239333EA" width="16"/> Exploring WebXR, Three.js & Spatial Computing
+- <img src="https://api.iconify.design/mdi/chevron-right.svg?color=%239333EA" width="16"/> Mastering real-time rendering & optimization
+
+### <img src="https://api.iconify.design/ph/lightbulb-filament-bold.svg?color=%23A855F7" width="20"/> Philosophy
+
+> "Turning impossible ideas into immersive realities"
+
+### <img src="https://api.iconify.design/mdi/handshake.svg?color=%23A855F7" width="20"/> Let's Collaborate
+
+- <img src="https://api.iconify.design/mdi/briefcase-variant.svg?color=%239333EA" width="18"/> Open for exciting freelance projects
+- <img src="https://api.iconify.design/mdi/star-circle.svg?color=%239333EA" width="18"/> Always ready to innovate
+- <img src="https://api.iconify.design/mdi/book-open-variant.svg?color=%239333EA" width="18"/> Happy to mentor & share knowledge
 
 </td>
 <td width="50%" align="center" valign="top">
