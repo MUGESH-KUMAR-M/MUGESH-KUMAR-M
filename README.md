@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me:
  Full Stack Developer passionate about building scalable web and mobile applications using modern technologies.<br> Skilled in both frontend and backend development, with a strong focus on Next.js and Django frameworks. Commit<br>ted to writing clean, efficient code and delivering robust solutions while continuously learning and adapting to new<br> technologies.
 
@@ -17,5 +19,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MUGESH-KUMAR-M&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
