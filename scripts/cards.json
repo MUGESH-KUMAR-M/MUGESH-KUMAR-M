@@ -1,0 +1,56 @@
+[
+  {
+    "id": "aerovision",
+    "title": "AeroVision AI",
+    "kicker": "EDGE AI  /  DEFECT DETECTION",
+    "outcome": "Improved YOLOv8 (ResCBAM + GhostConv) reaches 79.2% mAP50 on NEU-DET and exports to ONNX / TensorRT for edge devices.",
+    "icons": ["python", "pytorch", "opencv", "flask"],
+    "status": "Public",
+    "url": "https://github.com/MUGESH-KUMAR-M/AeroVision-AI"
+  },
+  {
+    "id": "weldvision",
+    "title": "WeldVision AI",
+    "kicker": "VISION AI",
+    "outcome": "TODO: one-line outcome with a real metric.",
+    "icons": [],
+    "status": "Private",
+    "url": ""
+  },
+  {
+    "id": "sws-rag",
+    "title": "SWS RAG Chatbot",
+    "kicker": "RAG  /  CHATBOT",
+    "outcome": "TODO: one-line outcome with a real metric.",
+    "icons": [],
+    "status": "Private",
+    "url": ""
+  },
+  {
+    "id": "taskflow",
+    "title": "TaskFlow",
+    "kicker": "TODO: CATEGORY",
+    "outcome": "TODO: one-line outcome with a real metric.",
+    "icons": [],
+    "status": "Private",
+    "url": ""
+  },
+  {
+    "id": "cmcht-xai",
+    "title": "CMCHT-XAI",
+    "kicker": "MEDICAL AI RESEARCH",
+    "outcome": "Explainable multi-modal liver-disease prediction from ultrasound + clinical data, with SHAP, Grad-CAM++ and counterfactuals.",
+    "icons": ["python", "pytorch", "fastapi", "nextjs"],
+    "status": "Public",
+    "url": "https://github.com/MUGESH-KUMAR-M/Hybrid-Multi-Modal-Framework-for-Effective-Prediction-of-Liver-Diseases"
+  },
+  {
+    "id": "cnc-sim",
+    "title": "CNC Simulator",
+    "kicker": "INDUSTRIAL TOOLING  /  YANTRA24X7",
+    "outcome": "Interactive 3D preview of machining toolpaths that catches programming errors before metal is cut.",
+    "icons": [],
+    "status": "Private",
+    "url": ""
+  }
+]
