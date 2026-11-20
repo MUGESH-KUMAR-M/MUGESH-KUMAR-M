@@ -1,25 +1,298 @@
+<!-- ═══════════════════════════  HERO  ═══════════════════════════ -->
 <div align="center">
 
-# 💫 About Me:
- Full Stack Developer passionate about building scalable web and mobile applications using modern technologies.<br> Skilled in both frontend and backend development, with a strong focus on Next.js and Django frameworks. Commit<br>ted to writing clean, efficient code and delivering robust solutions while continuously learning and adapting to new<br> technologies.
+<a href="https://mugeshkumar.com/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050506,45:6538e0,75:9b6bff,100:2dd4bf&text=MUGESH%20KUMAR%20M&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%2C%20GenAI%2C%20RAG%20%26%20Full-Stack&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Mugesh Kumar M — AI Engineer"/>
+</a>
 
+<a href="https://mugeshkumar.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=9B6BFF&center=true&vCenter=true&width=720&lines=I+build+LLM+agents+%F0%9F%A4%96;RAG+%26+hybrid-search+pipelines+%F0%9F%94%8E;GenAI+products+that+stay+grounded+%E2%9C%A8;Computer+vision+for+the+real+world+%F0%9F%91%81%EF%B8%8F;Full-stack+apps+used+by+1%2C000%2B+people+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_mugesh27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mugesh-kumar-5b5591290) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mugesh_27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mugeshkumar971@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MUGESH-KUMAR-M&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MUGESH-KUMAR-M&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MUGESH-KUMAR-M&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://mugeshkumar.com/"><img src="https://img.shields.io/badge/Portfolio-mugeshkumar.com-9b6bff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=050506"/></a>
+<a href="https://www.linkedin.com/in/mugesh-kumar-m-5b5591290/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050506"/></a>
+<a href="mailto:mugeshkumar971@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-2dd4bf?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050506"/></a>
+<a href="https://x.com/mugesh_27/"><img src="https://img.shields.io/badge/X-@mugesh__27-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=050506"/></a>
+<a href="https://www.instagram.com/its_mugesh27/"><img src="https://img.shields.io/badge/Instagram-its__mugesh27-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050506"/></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MUGESH-KUMAR-M&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2dd4bf?style=flat-square&labelColor=050506"/>
+<img src="https://img.shields.io/badge/BASED%20IN-Coimbatore%2C%20India%20%C2%B7%20IST-9b6bff?style=flat-square&labelColor=050506"/>
+<img src="https://komarev.com/ghpvc/?username=MUGESH-KUMAR-M&label=PROFILE%20VIEWS&color=9b6bff&style=flat-square&labelColor=050506" alt="profile views"/>
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp;Who I Am
+
+> **Production AI, end to end** — LLM agents, RAG and hybrid-search pipelines, GenAI features and computer vision — plus the full-stack web and mobile apps that put them in front of real users. Currently shipping **industrial AI at [Yantra24X7](https://mugeshkumar.com/)**.
+
+```python
+class MugeshKumarM:
+    role        = "AI & Full-Stack Engineer"
+    building    = ["LLM agents", "RAG pipelines", "GenAI products", "vision systems", "full-stack apps"]
+    now         = "AI/ML Developer Intern @ Yantra24X7"        # Jul 2026 — Present
+    education   = "B.Tech AI & Data Science · SKCT · CGPA 8.0 · 2027"
+    certified   = "Microsoft Azure Fundamentals (AZ-900)"
+    target      = ["AI / ML Engineer", "GenAI & LLM Engineer", "Full-Stack Engineer"]
+    available   = "Full-time from 2027 · internships & contract work now"
+    philosophy  = "Define 'good' before building. Retrieval before generation. Evals in CI."
+```
+
+<!-- ═══════════════════════════  IMPACT  ═══════════════════════════ -->
+## ⚡ Impact in Numbers
+
+<div align="center">
+
+| 🎯 **91.4%** | 👥 **1,000+** | 🧠 **8 tools** | 🏆 **1st Place** | 🌏 **Top of 40K+** |
+|:---:|:---:|:---:|:---:|:---:|
+| OCR exact match<br/><sub>up from 50.9% baseline</sub> | LMS users in production<br/><sub>web + mobile, one API</sub> | agent w/ 3-layer memory<br/><sub>nDCG@10 gated in CI</sub> | 24-hr Hackathon<br/><sub>KPR Institute · Feb 2025</sub> | India AI Impact Buildathon<br/><sub>GUVI × HCL · Feb 2026</sub> |
+
+</div>
+
+<!-- ═══════════════════════════  WHAT I DO  ═══════════════════════════ -->
+## 🧬 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 LLM Engineering & Agents
+Prompt & context engineering, tool calling, structured outputs, prompt-injection defences, MCP servers for persistent shared context.
+<br/>`Claude API` `OpenAI API` `Ollama` `LangGraph` `MCP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 RAG & Retrieval
+Chunking, embeddings, hybrid semantic + keyword search, Reciprocal Rank Fusion, reranking — **measured with nDCG, not eyeballed.**
+<br/>`pgvector` `ChromaDB` `FAISS` `RRF`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+Detection + OCR pipelines on hard industrial imagery, retrained on real data with an abstain-on-doubt gate.
+<br/>`PyTorch` `OpenCV` `OCR`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ LLMOps & Responsible AI
+Groundedness & ranking evals as build gates, grounding guards at runtime, explainability, fairness and drift monitoring.
+<br/>`Evals` `Guardrails` `SHAP` `Fairlearn`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧱 Full-Stack Products
+Web and mobile apps from PostgreSQL schema to polished UI, on one shared API.
+<br/>`Next.js` `React Native` `Django` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+Docker, Kubernetes and GitHub Actions for zero-downtime delivery on AWS and Azure.
+<br/>`Docker` `Kubernetes` `AWS` `Azure`
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════  TECH STACK  ═══════════════════════════ -->
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c,postgres,html,css&theme=dark" />
+
+**AI · ML · GenAI**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-9b6bff?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+**Full-Stack**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,django,nodejs,express,tailwind,redux,vite,redis,mongodb,mysql,supabase,firebase&theme=dark" />
+
+**Cloud · DevOps · Tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,nginx,vercel,netlify,git,github,linux,figma,unity&theme=dark" />
+
+</div>
+
+<!-- ═══════════════════════════  PROJECTS  ═══════════════════════════ -->
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 [Pathwise — AI Career Agent](https://github.com/MUGESH-KUMAR-M/AI_Career_Agent)
+<sub>**LLM Agents · RAG · Hybrid Search** — solo build</sub>
+
+Finds relevant jobs with hybrid search and **answers only from what it can ground**.
+- pgvector + Postgres FTS fused with **RRF**, then reranked
+- **8-tool agent**, 3-layer memory, grounding guard, prompt-injection defences
+- **nDCG@10 & groundedness gated in CI** — regressions fail the build
+
+`Python` `FastAPI` `pgvector` `Docker` `GitHub Actions`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [SKI LMS & SKCT App](https://github.com/MUGESH-KUMAR-M/AIDS-SKCT) &nbsp;<img src="https://img.shields.io/badge/LIVE-2dd4bf?style=flat-square"/>
+<sub>**Full-Stack · Web + Mobile**</sub>
+
+A production LMS + student app for a college — **used daily by 1,000+ people**.
+- Next.js web + React Native app on **one Django REST API**
+- Bulk grading, attendance, announcements, real-time comms
+- **500+ students** on mobile · deployed on AWS EC2
+
+`Next.js` `React Native` `Django REST` `PostgreSQL` `AWS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔩 Heat Code OCR
+<sub>**Industrial Computer Vision** — Yantra24X7</sub>
+
+Finds and reads heat codes stamped into cast iron — a foundry's traceability IDs.
+- Two-stage: **detect, then recognise** (retrained on real parts)
+- Agreement gate **abstains on doubt** → human review
+- **91.4% exact match vs 50.9% stock — +40.5 pts**
+
+`PyTorch` `OpenCV` `OCR`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ [TrustAI](https://github.com/MUGESH-KUMAR-M/Trust-AI) &nbsp;<img src="https://img.shields.io/badge/PAPER%20IN%20PREP-9b6bff?style=flat-square"/>
+<sub>**Responsible AI**</sub>
+
+Trust-scoring framework for data health, explainability, fairness mitigation and audit trails.
+- **225-run drift benchmark** — alerting beats auto-correction
+
+`Python` `FastAPI` `SHAP` `Fairlearn`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI_Brain & Local RAG &nbsp;<img src="https://img.shields.io/badge/IN%20PROGRESS-f59e0b?style=flat-square"/>
+<sub>**MCP · Agent Memory · Offline GenAI**</sub>
+
+Persistent memory shared across Claude Desktop, Claude Code & Codex via **MCP** — plus a fully offline RAG chatbot on nomic-embed-text, llama3.2 and ChromaDB.
+
+`MCP` `Ollama` `ChromaDB` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 [CMCHT-XAI](https://github.com/MUGESH-KUMAR-M/Hybrid-Multi-Modal-Framework-for-Effective-Prediction-of-Liver-Diseases)
+<sub>**Medical AI Research**</sub>
+
+Explainable multi-modal liver-disease prediction on ultrasound + clinical data — 5-fold CV, bootstrapped CIs, ablations.
+
+`PyTorch` `SimCLR` `SHAP` `Grad-CAM++`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>➕ More builds</b></summary>
+<br/>
+
+| Project | What | Stack |
+|---|---|---|
+| 🛠️ **3D CNC Simulator** | Interactive 3D preview of machining toolpaths — catches errors before metal is cut *(Yantra24X7)* | 3D · Web |
+| 📣 **Titan CMR** | Email & WhatsApp campaign scheduling, segmentation, real-time analytics | Node.js · React · PostgreSQL |
+| 🔧 **[PlumberGuy](https://github.com/SSAKTHITSELVAN/plumber_guy)** | Django PWA with JWT auth & live service tracking — **90+ Lighthouse** | Django · JWT · PWA |
+
+</details>
+
+<!-- ═══════════════════════════  EXPERIENCE  ═══════════════════════════ -->
+## 💼 Experience
+
+```diff
++ AI/ML Developer Intern · Yantra24X7                      Jul 2026 — Present · Coimbatore
+  ▸ CV + OCR pipeline reading heat codes on cast iron — 91.4% exact match (stock: 50.9%)
+  ▸ 3D CNC simulator previewing toolpaths so errors are caught before cutting
+
+! Software Developer Intern · PineSphere Solutions          May 2025 — May 2026 · Hybrid
+  ▸ Direct offer after winning 1st place at a 24-hour hackathon
+  ▸ Shipped 3+ production web & mobile apps (Django, React, Next.js, React Native)
+  ▸ REST APIs, PostgreSQL schemas, zero-downtime CI/CD with GitHub Actions + Docker
+
+# AI & Data Analytics Intern · Edunet Foundation           Jan 2025 — Feb 2025 · Remote
+  ▸ Shell India × AICTE — classification & regression models on environmental data
+```
+
+<!-- ═══════════════════════════  ACHIEVEMENTS  ═══════════════════════════ -->
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+| | Achievement | Issuer | Date |
+|:---:|---|---|:---:|
+| 🥇 | **24-Hour Hackathon — First Place** | KPR Institute of Engineering & Technology | Feb 2025 |
+| 🌟 | **India AI Impact Buildathon** — selected from 40,000+ | GUVI × HCL | Feb 2026 |
+| ☁️ | **[Microsoft Certified: Azure Fundamentals (AZ-900)](https://verify.certiport.com/25dz-XMSn)** | Microsoft | Jun 2025 |
+| 📄 | **TrustAI** — research paper in preparation | Responsible AI | Ongoing |
+| 🎓 | **B.Tech AI & Data Science** — CGPA 8.0 | Sri Krishna College of Technology · Anna University | 2023 — 2027 |
+
+</div>
+
+<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MUGESH-KUMAR-M&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050506&title_color=9b6bff&icon_color=2dd4bf&text_color=e4e4e7&ring_color=9b6bff" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUGESH-KUMAR-M&layout=compact&langs_count=8&hide_border=true&bg_color=050506&title_color=9b6bff&text_color=e4e4e7" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=MUGESH-KUMAR-M&hide_border=true&background=050506&ring=9b6bff&fire=2dd4bf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9b6bff&sideLabels=9b6bff&dates=a1a1aa&stroke=1a1a1e" alt="GitHub streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUGESH-KUMAR-M&bg_color=050506&color=e4e4e7&line=9b6bff&point=2dd4bf&area=true&area_color=9b6bff&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MUGESH-KUMAR-M&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+
+</div>
+
+<!-- ═══════════════════════════  CONTACT  ═══════════════════════════ -->
+## 🤝 Have a role, or a hard problem? *Let's talk.*
+
+I'm looking for teams building **LLM, GenAI and full-stack AI products** that real people depend on. The fastest way to reach me is email.
+
+<div align="center">
+
+<a href="mailto:mugeshkumar971@gmail.com"><img src="https://img.shields.io/badge/mugeshkumar971@gmail.com-9b6bff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mugeshkumar.com/"><img src="https://img.shields.io/badge/Résumé%20%26%20Case%20Studies-mugeshkumar.com-2dd4bf?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2dd4bf,40:9b6bff,75:6538e0,100:050506&section=footer&text=Let's%20build%20LLM%20products%20people%20rely%20on&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%"/>
+
+</div>
