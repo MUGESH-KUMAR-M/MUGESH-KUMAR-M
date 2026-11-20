@@ -134,10 +134,14 @@ def langs_card(langs, t):
     return frame(440, 210, t, "Top Languages", bar + legend)
 
 
+def days(n):
+    return f"{n} day" if n == 1 else f"{n} days"
+
+
 def streak_card(s, t):
     cols = [("Total contributions", f'{s["contrib"]:,}', "last 12 months"),
-            ("Current streak", f'{s["current"]} days', "consecutive"),
-            ("Longest streak", f'{s["longest"]} days', "last 12 months")]
+            ("Current streak", days(s["current"]), "consecutive"),
+            ("Longest streak", days(s["longest"]), "last 12 months")]
     body = ""
     for i, (label, value, sub) in enumerate(cols):
         cx = 150 + i * 300
