@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" width="100%" alt="Mugesh Kumar M - AI Engineer | Full-Stack Developer | Edge AI">
+  <img src="./assets/header-light.svg" width="100%" alt="Mugesh Kumar M, handwritten, with the MK monogram - AI Engineer, Full-Stack Developer, Edge AI">
 </picture>
 
 **I build production AI (LLM agents, RAG and edge computer vision) and the full-stack apps that put it in front of real users. My LMS serves 1,000+ people.**
@@ -11,7 +11,7 @@
 <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-161B22?style=for-the-badge" alt="Tech Stack"></a>
 <a href="#featured-projects"><img src="https://img.shields.io/badge/Projects-161B22?style=for-the-badge" alt="Projects"></a>
 <a href="#github-stats"><img src="https://img.shields.io/badge/Stats-161B22?style=for-the-badge" alt="Stats"></a>
-<a href="#contact"><img src="https://img.shields.io/badge/Contact-6366F1?style=for-the-badge" alt="Contact"></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-7C4DFF?style=for-the-badge" alt="Contact"></a>
 
 </div>
 
@@ -105,11 +105,11 @@
 
 Hiring for LLM, GenAI or full-stack AI work? Email is the fastest way to reach me.
 
-<a href="https://mugeshkumar.com/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://mugeshkumar.com/"><img src="https://img.shields.io/badge/Portfolio-7C4DFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/mugesh-kumar-m-5b5591290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTV2NS42Nkg5LjM0VjloMy40MnYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaTTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMFoiLz48L3N2Zz4%3D" alt="LinkedIn"></a>
 <a href="mailto:mugeshkumar971@gmail.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/MUGESH-KUMAR-M"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6366F1,100:22D3EE" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:9B6BFF,100:2DD4BF" width="100%" alt="">
 
 </div>
