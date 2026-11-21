@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="900" height="170" role="img" aria-label="Contribution Streak">
+<title>Contribution Streak</title>
+<defs>
+  <linearGradient id="tint" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#6366F1" stop-opacity="0.14"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0.07"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <clipPath id="r"><rect width="900" height="170" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#r)"><rect width="900" height="170" fill="#161B22"/><rect width="900" height="170" fill="url(#tint)"/><rect width="900" height="3" fill="url(#edge)"/></g>
+<rect x=".5" y=".5" width="899" height="169" rx="15.5" fill="none" stroke="#30363D"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="24" y="40" font-size="16" font-weight="700" fill="#E6EDF3">Contribution Streak</text>
+<text x="150" y="92" text-anchor="middle" font-size="30" font-weight="800" fill="#E6EDF3">130</text><text x="150" y="120" text-anchor="middle" font-size="13" font-weight="600" fill="#E6EDF3">Total contributions</text><text x="150" y="140" text-anchor="middle" font-size="11.5" fill="#8B949E">last 12 months</text><text x="450" y="92" text-anchor="middle" font-size="30" font-weight="800" fill="url(#edge)">1 day</text><text x="450" y="120" text-anchor="middle" font-size="13" font-weight="600" fill="#E6EDF3">Current streak</text><text x="450" y="140" text-anchor="middle" font-size="11.5" fill="#8B949E">consecutive</text><rect x="300" y="62" width="1" height="82" fill="#30363D"/><text x="750" y="92" text-anchor="middle" font-size="30" font-weight="800" fill="#E6EDF3">3 days</text><text x="750" y="120" text-anchor="middle" font-size="13" font-weight="600" fill="#E6EDF3">Longest streak</text><text x="750" y="140" text-anchor="middle" font-size="11.5" fill="#8B949E">last 12 months</text><rect x="600" y="62" width="1" height="82" fill="#30363D"/>
+</g>
+</svg>
